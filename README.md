@@ -1,60 +1,120 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544_square.svg" width="60" align="center" alt="Logo"/>
-  <h1 align="center">Hi there, I'm Thiago! 👋</h1>
-  <p align="center">Multiplatform Application Development (DAM) student passionate about software development and technology.</p>
-  
+
+  <!-- Logo con garantía de carga 100% -->
+  <a href="https://centystudios.netlify.app/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="90" alt="Logo" />
+  </a>
+
+  # 👋 Hi, I'm Thiago!
+
+  ### 🚀 Software Developer & Web Creator
+
   <p align="center">
-    <a href="https://linkedin.com/in/your-username" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <a href="https://centystudios.netlify.app/" target="_blank">
+      <img src="https://img.shields.io/badge/🌐_Website-CentyStudios-6C5CE7?style=for-the-badge&logoColor=white" alt="CentyStudios Website"/>
     </a>
-    <a href="mailto:your-email@email.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    <a href="https://github.com/thiiago-dev">
+      <img src="https://img.shields.io/badge/GitHub-thiiago--dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
     </a>
   </p>
+
+  ---
+
+  <p align="center">
+    <i>Specialized in Multiplatform Application Development & Modern Web Solutions.</i><br>
+    Founder & Lead Developer at <b>CentyStudios</b>.
+  </p>
+
 </div>
 
----
+<br>
 
-### 🚀 About Me
-- 💻 Currently pursuing a **Higher Vocational Degree in Multiplatform Application Development (DAM)** at *IES L’ARABI*.
-- 🌱 Expanding my knowledge in backend development, relational databases, desktop, and mobile applications.
-- ⚡ Interested in cybersecurity, Linux administration, and optimizing development environments.
-
----
-
-### 🛠️ Tech Stack & Tools
+## 🌟 Featured Project: CentyStudios
 
 <div align="center">
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | `Java` `C#` `Kotlin` `JavaScript` `SQL` |
-| **Web Development** | `HTML5` `CSS3` `Node.js` `Express` |
-| **Databases** | `PostgreSQL` |
-| **Systems & DevOps** | `Linux` `Bash` `Git` `GitHub` `UFW` |
-| **Frameworks / UI** | `Swing` `XAML` `.NET` `GitKraken` |
-
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">🎨 Custom Web Solutions</h3>
+        <p>I design and build fast, modern, and responsive websites tailored for projects, businesses, and personal brands.</p>
+        <p>✨ <b>Key Features:</b> Dark/Light tech themes, optimized performance, smooth UI design, and responsive layouts.</p>
+        <br>
+        <p align="center">
+          👉 <b><a href="https://centystudios.netlify.app/" target="_blank">Visit CentyStudios Live Website 🚀</a></b>
+        </p>
+      </td>
+      <td width="50%" align="center" valign="middle">
+        <a href="https://centystudios.netlify.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Status-Active_&_Deploying-2ECC71?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify Deployment"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cs,kotlin,nodejs,express,postgresql,linux,git,github,html,css,vscode&theme=dark" alt="Skill Icons"/>
+---
+
+## ⚡ About Me
+
+- 🎓 **Education:** Pursuing a **Higher Vocational Degree in Multiplatform Application Development (DAM)** at *IES L’ARABI*.
+- 🛠️ **What I Do:** Build desktop applications, mobile tools, relational databases, and dynamic web interfaces.
+- 🐧 **Tech Interests:** Linux system administration, network security, and UI/UX optimization.
+- 💬 **Ask me about:** Java, C#, Node.js, HTML/CSS layout design, and PostgreSQL.
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### 💻 Languages & Frameworks
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
 </p>
 
----
+### 🎨 Web & Styling
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
+</p>
 
-### 📊 GitHub Stats
+### 🗄️ Databases & Infrastructure
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
+
+<br>
 
 <div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=thiiago-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="GitHub Stats" />
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiiago-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="Top Languages" />
-  </p>
+  <img src="https://skillicons.dev/icons?i=java,cs,kotlin,js,nodejs,express,html,css,postgres,linux,bash,git,github,vscode,net&theme=dark" alt="Skill Icons Stream" />
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=thiiago-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a" width="100%" alt="GitHub Stats" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiiago-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a" width="100%" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
 <div align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+  <sub>Designed & Developed by Thiago • Powered by <a href="https://centystudios.netlify.app/">CentyStudios</a></sub>
 </div>

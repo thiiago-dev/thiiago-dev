@@ -5,14 +5,14 @@
     <img src="https://komarev.com/ghpvc/?username=thiiago-dev&style=flat-square&color=6c5ce7" alt="Visitor Count" />
   </p>
 
-  <!-- Banner dinámico optimizado y 100% compatible con GitHub -->
-  <a href="https://centystudios.netlify.app/" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=70&lines=Hi+there,+I'm+Thiago!+👋;Founder+@+CentyStudios;Multiplatform+Developer" alt="Typing SVG" />
-  </a>
+  <!-- Título principal robusto y elegante (100% funcional sin fallos externos) -->
+  <h1>👋 Hi, I'm Thiago!</h1>
+  <p><b>Multiplatform Application Development Student & Full-Stack Web Creator</b></p>
 
+  <!-- Botones de Enlaces limpios y seguros -->
   <p align="center">
     <a href="https://centystudios.netlify.app/" target="_blank">
-      <img src="https://img.shields.io/badge/🌐_Website-CentyStudios-6C5CE7?style=for-the-badge&logoColor=white" alt="CentyStudios Website"/>
+      <img src="https://img.shields.io/badge/CentyStudios-Website-6C5CE7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="CentyStudios Website"/>
     </a>
     <a href="https://github.com/thiiago-dev">
       <img src="https://img.shields.io/badge/GitHub-thiiago--dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>

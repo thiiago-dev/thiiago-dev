@@ -1,62 +1,14 @@
 <div align="center">
 
-  <!-- ========================================== -->
-  <!-- BANNER ANIMADO TIPO REBOTE DVD CON SVG     -->
-  <!-- ========================================== -->
+  <!-- Contador de visitas -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=thiiago-dev&style=flat-square&color=6c5ce7" alt="Visitor Count" />
   </p>
 
-  <svg width="100%" height="160" viewBox="0 0 800 160" xmlns="http://www.w3.org/2000/svg" style="background-color: #0f172a; border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.4);">
-    <!-- Estilos de animación estilo DVD -->
-    <style>
-      @keyframes bounceX {
-        0%   { transform: translateX(0px); }
-        50%  { transform: translateX(630px); }
-        100% { transform: translateX(0px); }
-      }
-      @keyframes bounceY {
-        0%   { transform: translateY(0px); }
-        50%  { transform: translateY(105px); }
-        100% { transform: translateY(0px); }
-      }
-      @keyframes colorChange {
-        0%   { fill: #38bdf8; stroke: #38bdf8; }
-        25%  { fill: #a855f7; stroke: #a855f7; }
-        50%  { fill: #ec4899; stroke: #ec4899; }
-        75%  { fill: #22c55e; stroke: #22c55e; }
-        100% { fill: #38bdf8; stroke: #38bdf8; }
-      }
-      .anim-x {
-        animation: bounceX 12s cubic-bezier(0.37, 0, 0.63, 1) infinite alternate;
-      }
-      .anim-y {
-        animation: bounceY 7s cubic-bezier(0.37, 0, 0.63, 1) infinite alternate;
-      }
-      .dvd-box {
-        animation: colorChange 10s infinite;
-      }
-      .text-title {
-        font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
-        font-weight: 800;
-        font-size: 22px;
-        fill: #0f172a;
-        letter-spacing: 1px;
-      }
-    </style>
-
-    <!-- Contenedor con rebote en Eje Y -->
-    <g class="anim-y">
-      <!-- Contenedor con rebote en Eje X -->
-      <g class="anim-x">
-        <!-- Caja rectangular tipo logo DVD -->
-        <g transform="translate(10, 10)">
-          <rect class="dvd-box" x="0" y="0" width="150" height="35" rx="8" ry="8" />
-          <text x="75" y="23" text-anchor="middle" class="text-title">thiiago-dev</text>
-        </g>
-      </g>
-    </g>
-  </svg>
+  <!-- Banner dinámico optimizado y 100% compatible con GitHub -->
+  <a href="https://centystudios.netlify.app/" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=70&lines=Hi+there,+I'm+Thiago!+👋;Founder+@+CentyStudios;Multiplatform+Developer" alt="Typing SVG" />
+  </a>
 
   <p align="center">
     <a href="https://centystudios.netlify.app/" target="_blank">
